@@ -7,7 +7,7 @@
 2. Abra o terminal do Git Bash (ou o terminal de sua preferência).
 3. Digite o seguinte comando e pressione Enter:
 
-   ```
+   ```python
    git clone https://github.com/GabrielRoOl/poo.git
    ```
    
