@@ -7,7 +7,9 @@
 2. Abra o terminal do Git Bash (ou o terminal de sua preferência).
 3. Digite o seguinte comando e pressione Enter:
 
-   ``` git clone https://github.com/GabrielRoOl/poo.git ```
+   ```
+   git clone https://github.com/GabrielRoOl/poo.git
+   ```
    
-5. Pronto! O repositório foi clonado para o seu computador. Você agora tem acesso aos arquivos do projeto.
+5. Pronto! O repositório foi clonado para o seu computador. 
    
